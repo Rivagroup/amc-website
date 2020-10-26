@@ -63,7 +63,7 @@
                 <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
             </div>
         </div>
-    </div-->
+    </div>
     <div class="jumbotron jumbotron-fluid mt-4 rounded bg-primary text-light">
         <div class="container">
             <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
