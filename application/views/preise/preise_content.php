@@ -75,6 +75,7 @@
         </div>
     </div>
 <div class="text-muted">
-<small>* Ermäßigt sind Schüler, Studenten, AZUBIs, Schwerbehinderte und Rentner.</small><br>
-<small>** Kidscard ist bis zum vollendeten 15. Lebensjahr gültig.</small>
+<small>* Der ermäßigte Tarif darf nur von Schülern, Studenten und Auszubildenden, sowie jenen, die das 18. Lebensjahr noch nicht erreicht haben, in Anspruch genommen werden.</small><br>
+<small>** Die Kidscard gilt für Kinder und Jugendliche bis zum abgeschlossenen 15. Lebensjahr.</small><br>
+<small>*** Der Gruppentarif gilt nur für Gruppen ab 8 Personen.</small>
 </div>

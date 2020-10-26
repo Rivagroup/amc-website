@@ -19,7 +19,7 @@
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Angebote</a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item disabled" href="<?= base_url('angebote'); ?>">Übersicht</a>
-                        <a class="dropdown-item disabled" href="<?= base_url('kindergeburtstag'); ?>">Kindergeburtstag</a>
+                        <a class="dropdown-item" href="<?= base_url('kindergeburtstag'); ?>">Kindergeburtstag</a>
                         <a class="dropdown-item disabled" href="<?= base_url('angebote/junggesellenabschied'); ?>">Junggesellenabschied</a>
                         <a class="dropdown-item disabled" href="<?= base_url('angebote/partyraeume'); ?>">Partyräume</a>
                     </div>
