@@ -24,7 +24,7 @@ class Buchung extends MY_ContentController {
     public function index() 
 	{
 		$data=$this->meta4all($this->meta);
-        $data['bookingurl'] = "https://10669.pc-booking.com/apps/v3/#?grp=75cd679f-0029-4930-98a1-4abc17fa4ab5";        
+        $data['bookingurl'] = "https://10669.pc-booking.com/apps/v3/#?grp=75cd679f-0029-4930-98a1-4abc17fa4ab5";
         $data['pageHeadline'] = "<small><i class=\"fas fa-golf-ball\"></i> Minigolf buchen</small>";
         $data['main_content'] = 'buchung/buchung_content';
         $this->load->view('template', $data);
