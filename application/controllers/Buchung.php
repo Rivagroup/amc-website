@@ -24,10 +24,9 @@ class Buchung extends MY_ContentController {
     public function index() 
 	{
 		$data=$this->meta4all($this->meta);
-        $data['bookingurl'] = "https://10669.pc-booking.com/apps/v3/#?t=1589739925898&grp=649f4273-c7fc-4923-aaa1-bbeb4bbf9995&category=1";
+        $data['bookingurl'] = "https://10669.pc-booking.com/apps/v3/#?grp=75cd679f-0029-4930-98a1-4abc17fa4ab5&";
         $data['main_content'] = 'buchung/buchung_content';
-        //$this->load->view('template', $data);
-        redirect('/buchung/offline');
+        $this->load->view('template', $data);
     }
 
     public function offline() { 
