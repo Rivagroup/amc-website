@@ -20,7 +20,7 @@
                     </p>
                 </div>
                 <div class="col-md-8 col-sm-12">
-                <div class="row text-center">
+                <div class="row text-center mb-3">
                     <div class="col"><a href="https://spielcenter-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/spielcenter_chemnitz_logo.svg') ?>" alt="Spielcenter Chemnitz"></a></div>
                     <div class="col"><a href="https://bowling-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/bowling_chemnitz_logo.svg') ?>" alt="Bowling Center Chemnitz"></a></div>
                     <div class="col"><a href="https://escaperoom-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/escaperoom_chemnitz_logo.svg') ?>" alt="Escaperoom / Exitgame Chemnitz"></a></div>

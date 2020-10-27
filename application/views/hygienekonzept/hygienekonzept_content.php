@@ -10,8 +10,8 @@ Wladimir-Sagorski-Str.20<br>
 Verantwortlicher Hygieneschutzbeauftragter, Geschäftsführer Herr Rico Neumann sowie der Prokurist Herr Mario Franke.<br>
 Stand: 25.10.2020
 </p>
-<h1>1. Rivagroup GmbH</h1>
-<h2>1.1. Management Summary</h2>
+<h3>1. Rivagroup GmbH</h3>
+<h4>1.1. Management Summary</h4>
 <p>
 Der Tätigkeitsbereich der RivaGroup GmbH ist primär der Betrieb einer Indoor-Freizeitanlage mit der
 Angebotspalette von Erlebnis-Laserspielen, Fluchtspielen (Escaperooms), Schwarzlicht-Minigolf für die
@@ -22,7 +22,7 @@ angegliederten Restaurantbereich der Verkauf von Getränken und frisch zubereite
 eigenen Küche. Dieser zusätzliche Geschäftszweig wird in der Gewerbeanmeldung wie folgt
 beschrieben: „Gaststättenbereich mit einer Schank und Speisewirtschaft“.
 </p>
-<h2>1.2. Anforderungen nach Rahmen-Hygieneplan gem. § 36 Infektionsschutzgesetz</h2>
+<h4>1.2. Anforderungen nach Rahmen-Hygieneplan gem. § 36 Infektionsschutzgesetz</h4>
 <p>
 Ziel des Hygieneplanes ist es, Besucher und Mitarbeiter des Spielcenter-Chemnitz, im Vitacenter
 Chemnitz, bestmöglich vor einer Übertragung der Infektion im Zusammenhang mit SARS-CoV-2 zu
@@ -35,7 +35,7 @@ Die im Hygiene-Konzept verfügten Maßnahmen basieren auf den SARS-CoV 2 Arbeits
 Bundesministeriums für Arbeit und Soziales (Anlage 1). Stand 25.10.2020. Eine grafische Darstellung des
 Hygienekonzeptes ist der Anlage-2, Corona-Schutzplan, zu entnehmen.
 </p>
-<h2>1.3. Allgemeine Verhaltensmaßnahmen</h2>
+<h4>1.3. Allgemeine Verhaltensmaßnahmen</h4>
 <p>Mit einfachen Maßnahmen sind alle Gäste und Mitarbeiter angehalten sich selbst und andere zu
 schützen.
 Diese Maßnahmen beinhalten:</p>
@@ -56,7 +56,7 @@ Diese Maßnahmen beinhalten:</p>
 Gruppen für den Aufenthalt zur Verfügung gestellt und anschließend gereinigt und desinfiziert.
 Das gilt auch für alle anderen Gegenstände, die evtl. genutzt werden.</li>
 </ul>
-<h2>1.4. Personalhygiene- Schutzbekleidung und Desinfektionsmaßnahmen</h2>
+<h4>1.4. Personalhygiene- Schutzbekleidung und Desinfektionsmaßnahmen</h4>
 <p>
 Alle Mitarbeiter des Spielcenters sind mit einem Mund-Nasenschutz und Einweghandschuhen
 ausgestattet, um unter anderem vor direkten Kundenkontakt zu schützen. Diese werden von den
@@ -65,7 +65,7 @@ Am Einlassbereich befindet sich zu dem ein Desinfektionsspender- Grundsätzlich 
 Eingang mit Desinfektionsmittel ausgestattet. Die Sanitäranlagen sind zu dem in allen Bereichen
 großzügig ausgeschildert.
 </p>
-<h2>1.5. Sanitäreinrichtungen</h2>
+<h4>1.5. Sanitäreinrichtungen</h4>
 <p>
 In den sanitären Einrichtungen ist fließendes Wasser vorhanden sowie Seifenspender und
 Papierhandtücher, ebenso werden Müllbehälter bereitgestellt. Zusätzlich wurden Desinfektionsspender
@@ -83,7 +83,7 @@ für jedermann einsehbar.</li>
 dass sich nur eine bestimmte Anzahl an Personen auf den Toiletten befindet und somit der
 Sicherheitsabstand von 1,5m gewährleistet ist.</li>
 </ul>
-<h2>1.6. Arbeitszeit, Pausengestaltung, aktive Kommunikation und Unterweisung der Mitarbeiter</h2>
+<h4>1.6. Arbeitszeit, Pausengestaltung, aktive Kommunikation und Unterweisung der Mitarbeiter</h4>
 <ul>
 <li>Verringerung der Belegungsdichte von Arbeitsbereichen und gemeinsam genutzten
 Einrichtungen durch Maßnahmen zur zeitlichen Entzerrung (versetzte Arbeits- und Pausenzeiten
@@ -108,7 +108,7 @@ gesamten Betrieb.</li>
 <li>Benennen eines geeigneten Ansprechpartners für die Umsetzung des Schutz- und
 Hygienekonzeptes (siehe oben).</li>
 </ul>
-<h2>1.7. Speisen und Getränke</h2>
+<h4>1.7. Speisen und Getränke</h4>
 <ul>
 <li>Angebotene Speisen und Getränke werden unter strengen Hygiene Vorschriften wie sie in einer
 Großraumküche schon vorhanden sind (Hazard Analysis Critical Control Points (HACCP))
@@ -133,7 +133,7 @@ oder vergleichbare Hilfsmittel sind regelmäßig zu reinigen und zu desinfiziere
 der Hygieneregeln für Buffets ist durch Servicepersonal zu beaufsichtigen. Die Bildung von
 Warteschlangen ist zu vermeiden.</li>
 </ul>
-<h2>1.8. Infektionsketten</h2>
+<h4>1.8. Infektionsketten</h4>
 <p>
 Um Infektionsketten nachvollziehen zu können, werden die Daten des Kunden erfasst. Dies
 beinhaltet Vor und Zuname, Telefonnummer oder E-Mail-Adresse, Postleitzahl der Besucher
@@ -143,7 +143,7 @@ werden diese Daten automatisch gelöscht. Auf Anforderung sind diese an das
 Gesundheitsamt-Chemnitz zu übermitteln; eine Verarbeitung zu anderen Zwecken wird nicht
 unternommen und ist unzulässig und rechtswidrig.
 </p>
-<h2>1.9. Sonstige Arbeitsschutz und Hygienemaßnahmen</h2>
+<h4>1.9. Sonstige Arbeitsschutz und Hygienemaßnahmen</h4>
 <ul>
 <li>regelmäßige Belüftung</li>
 <li>Aushang der Hygieneregeln im gesamten Gebäude</li>
@@ -153,8 +153,8 @@ Flächen (Türklinken und –griffe, Handlaufe, Handterminals, Tastaturen und To
 <li>Benennung eines betrieblichen Hygienebeauftragten (siehe oben).</li>
 <li>Arbeitsmedizinische Vorsorge und Schutz besonders gefährdeter Personen</li>
 </ul>
-<h2>1.10. Besucher</h2>
-<h3>1.10.1. Besucher allgemein Spielcenter-Chemnitz</h3>
+<h4>1.10. Besucher</h4>
+<h5>1.10.1. Besucher allgemein Spielcenter-Chemnitz</h5>
 <ul>
 <li>Das Betreten des Spielcenters ist ausschließlich über den entsprechenden Eingang zu betreten
 und entsprechenden Ausgang zu verlassen.</li>
@@ -183,7 +183,7 @@ Atemwegserkrankung bzw. Erkältung. Personen, die positiv auf Corona getestet wu
 sich im aktiven Krankheitsverlauf befinden. Personen, die sich auf behördliche Anweisung in
 Quarantäne befinden. Personen, die sich "krank" fühlen.</li>
 </ul>
-<h3>1.10.2. Besucher Bowlinganlage</h3>
+<h5>1.10.2. Besucher Bowlinganlage</h5>
 <ul>
 <li>Der Betreiber gestattet maximal 1 Haushalt pro Bahn, maximal 2 Haushalte pro Abteil (Abteil= 1
 Bereich mit 2 Bahnen/Sitzmöglichkeiten). Siehe Anlage-2. Es gibt insgesamt 22-Bahnanlagen. Die
@@ -204,7 +204,7 @@ Verfügung.</li>
 <li>Zwischen fremden Gruppen an den Bowlingbahnen ist ein „Spuckschutz“ installiert, um vor
 versehentlichen Annäherungen zu schützen.</li>
 </ul>
-<h3>1.10.3. Besucher Rätselräume (Escaperoom)</h3>
+<h5>1.10.3. Besucher Rätselräume (Escaperoom)</h5>
 <ul>
 <li>Im abgesperrten Raum ist kein Mund-Nasenschutz zu tragen da sich der eigene Haushalt in
 diesem Befindet. An das Ansteckungsrisiko für anderen durch den Gebrauch von Gegenständen
@@ -214,7 +214,7 @@ gereinigt und desinfiziert.</li>
 <li>Dem Gast ist es empfohlen, Einweghandschuhe zutragen. Diese gibt es bei dem Servicepersonal
 gegen eine Hygienepauschale i.h.v. 1,00€ (In Worten: Einem Euro).</li>
 </ul>
-<h3>1.10.4. Besucher Lasertag</h3>
+<h5>1.10.4. Besucher Lasertag</h5>
 <ul>
 <li>Beim Lasertag dürfen nur maximal 2 Haushalte teilnehmen. Somit ist die Teilnehmerzahl
 begrenzt. Aufgrund des Kontaktlosen spielen, ist der Mindestabstand von 1,50Meter zu jeder
@@ -225,7 +225,7 @@ Körperflüssigkeiten an einem dranbleiben und nicht auf das Material übergehen
 Menschenansammlung kommen kann.</li>
 <li>Nach jedem Spielende werden die Spielgeräte (Westen+Tagger) gereinigt und desinfiziert.</li>
 </ul>
-<h3>1.10.5. Besucher Minigolf</h3>
+<h5>1.10.5. Besucher Minigolf</h5>
 <ul>
 <li>Jeder Haushalt bekommt seinen eigenen Schläger sowie seinen eigenen Ball, zudem bekommt
 jeder Haushalt seine eigenen schreib Utensilien. Diese Gegenstände werden nach der
@@ -238,7 +238,7 @@ zu keiner Menschenansammlung kommen kann.</li>
 <li>Es gibt einen Separaten Eingang auf die Spielfläche sowie einen separaten Ausgang, welcher sich
 auf der anderen Seite des Spielfeldes befindet.</li>
 </ul>
-<h3>1.10.6. Besucher Betriebsfremder Personen, z.B. Handwerker, Lieferanten etc.</h3>
+<h5>1.10.6. Besucher Betriebsfremder Personen, z.B. Handwerker, Lieferanten etc.</h5>
 <ul>
 <li>Zutritt betriebsfremder Personen nach Möglichkeit auf ein Minimum beschränken</li>
 <li>Kontaktdaten betriebsfremder Personen beim Betreten/Verlassen des Betriebs Geländes sind zu

@@ -1,9 +1,3 @@
-<div class="jumbotron bg-primary text-white">
-    <h1 class="display-4">Preise</h1>
-    <!--p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-            <hr class="my-4">
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p-->
-</div>
     <div class="card-group">
         <div class="card shadow-sm text-dark bg-minigolf mb-3" style="width: auto;">
             <h4 class="card-header text-uppercase"><i class="fas fa-user"></i> Einzelspieler</h4>

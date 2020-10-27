@@ -1,4 +1,4 @@
-<div class="container">
+
     <div class="card-deck">
         <div class="card bg-info text-white">
             <div class="card-header">
@@ -66,9 +66,8 @@
     </div>
     <div class="jumbotron jumbotron-fluid mt-4 rounded bg-primary text-light">
         <div class="container">
-            <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
+            <h2>KINDERGEBURTSTAG KOMBI-PAKETE</h2>
             <p class="lead">1 Runde Minigolf plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
             <a href="https://spielcenter-chemnitz.de/kombi/#minigolf" target="_blank" class="btn btn-lg btn-block btn-info" role="button">weitere Informationen</a>
         </div>
     </div>
-</div>
