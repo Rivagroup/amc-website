@@ -8,9 +8,9 @@ class MY_ContentController extends CI_Controller {
 		$this->meta = array();
 		$this->meta['title'] = 'Adventure Minigolf Chemnitz';
 		$this->meta['main_content'] = 'start/start_content';
-		$this->meta['description'] = '';
+		$this->meta['description'] = 'Ihr bewegt euch spielerisch auf einem 16-Loch-Indoor-Minigolf-Parcours durch 4 unterschiedliche Fantasiewelten.';
 		
-		$this->meta['keywords_private']= '';
+		$this->meta['keywords_private']= 'minigolf,chemnitz,schwarzlicht,adventure,dark,freizeit,beschäftigung';
 		
 		$this->meta['keywords_alldomains']='chemnitz,freizeit,firmenfeier,kinder,geburtstag,aktivität,junggesellenabschied,veranstaltung, firmen,event,indoor,brunch,billard,dart';
 		
